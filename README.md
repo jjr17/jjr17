@@ -26,18 +26,6 @@ My name's Juarez Junior, I'm web developer 💻
   <a href="https://instagram.com/jjr_7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jmjj.jr7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juarezjunior7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/jjr17/jjr17/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
-<p align="center"> 
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/jjr17/count.svg" />
- </p>
-
-</p>
 
 
