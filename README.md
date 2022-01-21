@@ -6,8 +6,8 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jjr17&show_icons=true&theme=vision-friendly-dark" alt="juarezjunior's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjr17&layout=compact&theme=vision-friendly-dark" alt="juarezjunior's most languages"/>
+<img align="center" width="530em" src="https://github-readme-stats.vercel.app/api?username=jjr17&show_icons=true&theme=vision-friendly-dark" alt="juarezjunior's stats"/>
+<img align="center" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjr17&layout=compact&theme=vision-friendly-dark" alt="juarezjunior's most languages"/>
   
 <br><br>
   
